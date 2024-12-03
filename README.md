@@ -1,2 +1,2 @@
 # RS_SDR
-Développement d’un projet Python RS-SDR pour la création d’images de vraie couleur (TCI) et  infrarouge couleur (IRC) 24 bits à partir des images de télédétection en réflectance
+Développement d’un projet Python RS-SDR pour la compression d'images satellites multispectrales HDR en images SDR. Ce projet à pour but de permettre la comparaison entre images satellites et images aériennes TCI.
