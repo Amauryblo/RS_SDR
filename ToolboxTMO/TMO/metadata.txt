@@ -1,0 +1,15 @@
+Classe utilisée : GammaCorrection
+Paramètres :
+  pixel_matrix_shape: (250, 371, 3)
+  gamma: 2.2
+----------------------------------------
+Fonction appelée : apply_correction
+Paramètres :
+  input_shape: (250, 371, 3)
+  gamma: 2.2
+  output_shape: (250, 371, 3)
+----------------------------------------
+Fonction appelée : save_image
+Paramètres :
+  output_path: C:\Users\ablot\Documents\PPMD\TMO_Toolbox\TMO\ToolboxTMO\Created_files\test_gamma.tif
+----------------------------------------
